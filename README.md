@@ -21,7 +21,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
   <dd>The Symfony’s Serializer component exists since version 2 of Symfony, but lately it has been improved and includes a lot of new features. During this talk, I’ll present the unknown but very powerful features of this library. After a reminder of the basics, we’ll discover how the component enables the use of any type of PHP object, whatever their styles : getters / setters, public properties, proxys… Then, we’ll see the different formats natively supported : JSON, XML, YAML and CSV. We’ll also use dates, and mention the file upload with the « data : URI » support. Finally, we’ll study more complex cases such as choosing the properties to serialize / unserialize thanks to groups, managing circular references, serializing trees by limiting their depth and updating the existing objects.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/discover-the-serializer-component)  
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
