@@ -169,7 +169,7 @@ By [Tobias Nyholm](https://connect.sensiolabs.com/profile/tobias)
   <dd>The reviewer checklist - or better said how to be a better code reviewer with a methodical approach. In this talk we explore what a code reviewer should flag out and what should not, from finding bad code smell, design problem to spot performance or security issue and poor test coverage. The talks includes snippets of code to demonstrate solutions, challenges I’ve encountered while reviewing code in several big projects and, of course, what has become my checklist.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/niklongstone/the-reviewer-checklist/)  
 ~~Video~~
 
 By [Nicola Pietroluongo](https://connect.sensiolabs.com/profile/niklongstone)  
