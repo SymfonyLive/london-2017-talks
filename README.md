@@ -85,7 +85,7 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
   <dd>How can one use Symfony 4.0 and PHP 7.2 while working with a legacy application? Starting new projects on latest technology is a no-brainer but how often are you in this position? Most of the time it feels like you're stuck with what you have. In this talk I'll share my experience migrating a legacy monolith from 2007 (powering a high traffic social network) and an API-centric web application (running an e-commerce marketplace) to Symfony. Although the talk will be largely technical I'll also share some insights on ROI, non-technical benefits and pitching the idea to your boss.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/sgrodzicki/from-legacy-to-symfony-at-symfonylive-london-2017)  
 ~~Video~~
 
 By [Sebastian Grodzicki](https://connect.sensiolabs.com/profile/sgrodzicki)  
@@ -101,7 +101,7 @@ By [Sebastian Grodzicki](https://connect.sensiolabs.com/profile/sgrodzicki)
   <dd>The work on the application that deals with FinTech, MedTech or other kinds of sensitive PII (personal identifying information) requires high attention to security. There are different kinds of threats: risk of internal data leakage, a risk of infrastructure hacking, a risk of vulnerabilities inside the app e.t.c. This becomes even more complicated if the development or QA are outsourced. In this talk I will cover the following topics: — Protecting PII using data obfuscation during development and QA. — Secure alternatives for storing the credentials in the config files or environment variables. — Various techniques of encrypting data inside your app.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/smirik/secure-your-application-data-using-symfony)  
 ~~Video~~
 
 By [Evgeny Smirnov](https://connect.sensiolabs.com/profile/smirik)  
@@ -153,7 +153,7 @@ The tricky part is how you build your development processes to work together wit
 Taking the experiences learned from JMSTranslationBundle, Happyr’s translation bundles and the PHP-Translation organization; I will give you example of a few very concrete processes working with translations in a Symfony environment.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/TobiasNyholm/building-your-translation-process)  
 ~~Video~~
 
 By [Tobias Nyholm](https://connect.sensiolabs.com/profile/tobias)  
